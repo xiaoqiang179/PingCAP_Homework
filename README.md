@@ -18,5 +18,5 @@ RAM: 16 GB 2133 MHz LPDDR3
 到25GB的数据,但看时间走势,100GB应该能在10min内拿下
 
 ```
-
+这是图 加载不出来可以下载那个图看
 ![](https://github.com/xiaoqiang179/PingCAP_Homework/blob/master/%E6%88%AA%E5%B1%8F2020-04-26%2019.29.22.png)
