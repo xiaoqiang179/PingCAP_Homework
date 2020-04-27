@@ -19,4 +19,6 @@ RAM: 16 GB 2133 MHz LPDDR3
 
 ```
 这是图 加载不出来可以下载那个图看
+
 ![](https://github.com/xiaoqiang179/PingCAP_Homework/blob/master/%E6%88%AA%E5%B1%8F2020-04-26%2019.29.22.png)
+![](https://github.com/xiaoqiang179/PingCAP_Homework/blob/master/%E6%88%AA%E5%B1%8F2020-04-27%2014.11.17.png)
